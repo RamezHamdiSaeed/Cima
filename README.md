@@ -7,3 +7,7 @@ Mobile (android) version for the existed [web app](https://mycima.fun/appweb/)
 
 - [GetX kick start](https://pub.dev/packages/get) .
 
+
+https://user-images.githubusercontent.com/30303411/198104085-e56d9c1a-f81e-4b0c-8267-25c2fe882a90.mp4
+
+
